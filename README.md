@@ -13,12 +13,12 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science .\
 🌱 &nbsp;I'm on track for learning more about <b>Web Development</b> and <b>Competitive programming</b> .\
-✍️ &nbsp;In my free time, I play <b>Football</b> and <b>Chess</b> as hobbies.\
+✍️ &nbsp;In my free time, I play <b>Cricket</b> and <b>Cricket</b> as hobbies.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at arihantdaga100@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at aditya.kumar.6nov@gmail.com! I'll try to respond as soon as I can.\
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://github.com/ar1hant/Resume/blob/main/AbhishekChauhanResume.pdf) for more details about me. I'm open to feedback and suggestions! -->
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/ar1hant/ar1hant/master/assets/Night-Coding.gif" align="right"/>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/ar1hant/ar1hant/master/assets/Night-Coding.gif" align="right"/> -->
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -54,19 +54,19 @@
  </p> -->
 
 <p align="center">
-<a href="https://github.com/ar1hant">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ar1hant&show_icons=true&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ar1hant&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/aditya6nov/">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditya6nov&show_icons=true&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya6nov&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://ar1hant.github.io/second/"><img src="https://img.shields.io/badge/-_Arihant_Daga-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ar1hant-daga/"><img src="https://img.shields.io/badge/-_Arihant_Daga-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:arihantdaga100@gmail.com"><img src="https://img.shields.io/badge/-arihantdaga100@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/razziil/"><img src="https://img.shields.io/badge/-_Arihant_Daga-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://aditya6nov.github.io/my-personal-site/"><img src="https://img.shields.io/badge/-_Aditya_Kumar-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="www.linkedin.com/in/aditya-kumar-6nov"><img src="https://img.shields.io/badge/-_Aditya_Kumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:aditya.kumar.6nov@gmail.com"><img src="https://img.shields.io/badge/-aditya.kumar.6nov@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/_vats_adi/"><img src="https://img.shields.io/badge/-_Arihant_Daga-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <!-- <a href="https://www.pinterest.ca/abhishek"><img src="https://romantic-beaver-da4687.netlify.app/-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
 
 </p>

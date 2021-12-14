@@ -2,7 +2,7 @@
 <!--   <img height="180em"  src="https://raw.githubusercontent.com/ar1hant/ar1hant/master/assets/circle-cropped.png"/> -->
  </p>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 margin:30px>Hey there! I'm Aditya </h2>
+<h2 margin:30px>Hey there! I'm Aditya </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Abhishek -->
 ![](https://komarev.com/ghpvc/?username=Aditya&color=orange)

@@ -66,7 +66,7 @@
 <a href="https://aditya6nov.github.io/my-personal-site/"><img src="https://img.shields.io/badge/-_Aditya_Kumar-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="www.linkedin.com/in/aditya-kumar-6nov"><img src="https://img.shields.io/badge/-_Aditya_Kumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:aditya.kumar.6nov@gmail.com"><img src="https://img.shields.io/badge/-aditya.kumar.6nov@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/_vats_adi/"><img src="https://img.shields.io/badge/-_Arihant_Daga-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/_vats_adi/"><img src="https://img.shields.io/badge/-_Aditya_Kumar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <!-- <a href="https://www.pinterest.ca/abhishek"><img src="https://romantic-beaver-da4687.netlify.app/-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
 
 </p>
